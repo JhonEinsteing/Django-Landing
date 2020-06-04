@@ -16,7 +16,7 @@ Realizado por el aprendiz Jhon Einsteing Castiblanco Ciro
 
 ![Respuesta del Formulario](imagen-proyecto/3.jpg)
 
-## Mensaje Recivido en mailtrap
+## Mensaje Recibido en mailtrap
 ![Imagen de Mailtrap](imagen-proyecto/4.jpg)
 
 ## Vista de Models
