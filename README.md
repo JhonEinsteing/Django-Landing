@@ -6,5 +6,6 @@ asesoria de Eder Lara Trujillo
 Realizado por el aprendiz Jhon Einsteing Castiblanco Ciro
 
 ## Pantalla de inicio
-![inicio de Landing](inicio.jpg)
+![inicio de Landing](imagen-proyecto/1.jpg)
+
 
